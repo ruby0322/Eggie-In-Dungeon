@@ -1,4 +1,4 @@
-"# Eggie-In-Dungeon" 
+# Eggie-In-Dungeon
 
 This is my VERY FIRST Python project.
 
